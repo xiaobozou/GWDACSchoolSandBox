@@ -8,7 +8,7 @@ Teams (add your team name below):
 
 (2) Group 2nd, leader: ; members:
 
-(3) Group 3rd, leader: ; members:
+(3) Group 3rd, leader: Xinchun Hu ; members:
 
 (4) Group 4th, leader: ; members:
 
